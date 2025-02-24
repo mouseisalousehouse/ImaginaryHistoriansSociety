@@ -6,3 +6,5 @@ to the Mailing list or GitHub repository of the Imaginary Historians
 Society under the auspices of a character.
 
 Characters begin as graduate students at the university--must submit masters thesis.
+
+Participants can submit for publication
