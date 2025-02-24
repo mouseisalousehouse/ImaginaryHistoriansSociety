@@ -6,12 +6,12 @@ submit a masters thesis which meets the following criteria:
 * At least 2000 words
 * Scholarly in tone and affect
 * Contributing new knowledge to the field of history
-* Is not plagiarized or copied from any source
-* Is not written with the aid of any generative artificial intelligence
+* Not plagiarized or copied from any source
+* Not written with the aid of any generative artificial intelligence
 * Well researched (with citations)
 
-Submitted theses will be reviewed by an admissions committee of three
-member characters. Each committee member shall submit an evaluation
+Submitted theses will be reviewed by an admissions committee of three.
+Each committee member shall make an evaluation
 which will be one of three possibilities:
 
 * ACCEPT
@@ -19,13 +19,14 @@ which will be one of three possibilities:
 * REQUEST REVISION
 
 If all three members of the committee ACCEPT the thesis, the character
-is a member of the Imaginary Historians Society, and granted all the
-rights and privileges thereof.
+is a member of the Imaginary Historians Society as a PhD Student, and
+granted all the rights and privileges thereof.
 
 If any one of the committee members REJECT a thesis, the thesis is not
 accepted and the character must submit another one.
 
 If one or more committee members REQUEST REVISION of a thesis, supplying
-suggestions for revising, the character may revise and resubmit. A revised
+suggestions for revising, the character may revise and resubmit. The revised
 thesis will then be evaluated by each committee member with either
 ACCEPT AFTER REVISION or REJECT.
+
