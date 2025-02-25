@@ -33,4 +33,8 @@ accepted and the character must submit another one.
 If one or more committee members REQUEST REVISION of a thesis, supplying
 suggestions and notes, the character may revise and resubmit. The revised
 thesis will then be evaluated by each committee member with either
-ACCEPT AFTER REVISION or REJECT. 
+ACCEPT AFTER REVISION or REJECT.
+
+* Style 
+
+
