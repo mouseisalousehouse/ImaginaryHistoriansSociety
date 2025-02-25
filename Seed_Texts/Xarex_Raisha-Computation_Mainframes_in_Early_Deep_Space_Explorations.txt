@@ -1,12 +1,12 @@
-Computation Mainframes in Early Deep Space Explorations
+#+TITLE: Computation Mainframes in Early Deep Space Explorations
 
 --------------------------
 
-by Raisha Xarex
+#+AUTHOR: by Raisha Xarex
 
 =======================================================================
 
-Abstract
+* Abstract
 
 At the outset of the Second Exploration, there were four mainframe
 computer assemblies capable of processing Starship Navigation Data
@@ -24,12 +24,12 @@ middle and late phases of the period. Ultimately, these early
 technological choices were contributing factors in the decline and
 collapse of space exploration during the era.
 
-Historical Background
+* Historical Background
 
 3204.3 is generally considered to be the "start date" of the Second
 Exploration. King Ozz III, of Naru-B, 
 
-Technical Background
+* Technical Background
 
 Until the discovery of abstractspace by Ariel Moriarty in 5389[fn:1],
 the only known reliable method of faster than light (FTL) travel was
@@ -65,8 +65,7 @@ complex. This complexity scaled with the mass of the vessel.
 Computer mainframe assemblies were developed to make these
 calculations. An array of radiotelescopes produced data about the relative location, and speed of the starship. SNDaPs were then fed into the mainframe assembly (either electronically or namually, as we will see), and the
 
-
-
+ 
 * Footnotes
 
 [fn:2] 
