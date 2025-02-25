@@ -1,3 +1,0 @@
-This is a text to see if git is working through Meta-SIX.
-
-Oh dearie me...
