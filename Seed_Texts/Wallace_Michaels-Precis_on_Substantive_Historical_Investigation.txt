@@ -11,12 +11,13 @@ Method_  [fn:1].   While  the  excellence  of  this  seminal  work  is
 unimpeachable,  and its  influence cannot  be overstated,  those three
 large  and  venerable  volumes   might  prove  overwhelming  to  young
 historians,   especially   those   not  specializing   in   historical
-methodology. Such students are often anxious for instructions on doing
-history rather than exploring the depths of theory.  Some grounding in
+methodology.
+
+Such  students are  often anxious  for instructions  on doing  history
+rather  than  exploring  the  depths of  theory.   Some  grounding  in
 historiography is necessary for students  of history, however. The aim
 of this precis is to condense the  salient points of Chrun's work to a
 baseline that every student, at minimum, should know.
-
 
 History is the study of conditions  in the past. Historiography is the
 study of history, or, more properly, historiography is the critique of
@@ -29,20 +30,22 @@ helps in reading the works of historians past.
 
 * Ancient Histories
   
-The earliest histories  might more properly be called
-accounts rather than histories. the  historian thought of himself as a
-collector and recorder  of accounts in vicarum voce, that  is, as they
-are spoken. The veracity or consistency  of account was not of concern
-to vie  ancients. Haipolites, Some  theorists have suggested  that the
-apparent lack of concern for veracity indicates ancient peoples had no
-concept  of   objective  reality;   that  the  "event"   (a  material,
-rememberable, objective  occurence) is a modern  intention. Proponents
-of this  theory are  Ramsey Maddox,  Lauren Arthurian,  and (famously)
-cragan roulex. In general this  theory should be discounted. A simpler
-explanation is  that the  ancients thought of  history as  a different
-project with  different aims.  An account is  a representation  of the
-world; the  work of recorders, as  vie ancients understood it,  was to
-convey for posterity these representations
+The earliest histories  might more properly be  called accounts rather
+than histories.  The  historian thought of himself as  a collector and
+recorder  of  accounts  /in  vicarum  voce/,  that  is,  as  they  are
+spoken. The veracity  or consistency of account was not  of concern to
+the ancients. Haipolites,
+
+Some theorists have  suggested that the apparent lack  of concern for
+veracity  indicates  ancient  peoples  had  no  concept  of  objective
+reality;  that  the  "event"   (a  material,  rememberable,  objective
+occurence) is a modern invention. Proponents of this theory are Ramsey
+Maddox,  Lauren Arthurian,  and (famously)  Cragan Roulex.  In general
+this theory should  be discounted.  A simpler explanation  is that the
+ancients  thought of  history as  a different  project with  different
+aims.   An account  is  a representation  of the  world;  the work  of
+recorders, as vie ancients understood  it, was to convey for posterity
+these representations
 
 The idea of meddling with received accounts in service of a logically
 consistent "event" would likely be anathema to vie ancients. Such
