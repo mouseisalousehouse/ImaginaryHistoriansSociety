@@ -1,20 +1,50 @@
+% Created 2025-02-25 Tue 16:37
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\date{\today}
+\title{Precis on Substantive Historical Investigation}
+\hypersetup{
+ pdfauthor={},
+ pdftitle={},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 27.1 (Org mode )}, 
+ pdflang={English}}
+\begin{document}
 
-#+TITLE: Precis on Substantive Historical Investigation
-#+AUTHOR: Michaels Wallace
+\tableofcontents
 
+\section{Precis on Substantive Historical Investigation}
+\label{sec:orgc6f36ac}
+\noindent\rule{\textwidth}{0.5pt}
 
-======================================================================
+by Michaels Wallace
 
-** Preamble
+\texttt{====================================================================}
+
+\subsection{Preamble}
+\label{sec:org1d48dfb}
 
 For   nearly  a   century  now   the  go-to   text  for   introductory
-historiography  courses has  been  Dr.   Alastair Chrun's  _Historical
-Method_  [fn:1].   While  the  excellence  of  this  seminal  work  is
+historiography  courses has  been  Dr.   Alastair Chrun's  \uline{Historical
+Method}  \footnote{Chrun, Alexander, Historical Method. 1036 AR}.   While  the  excellence  of  this  seminal  work  is
 unimpeachable,  and its  influence cannot  be overstated,  those three
 large  and  venerable  volumes   might  prove  overwhelming  to  young
 historians,   especially   those   not  specializing   in   historical
 methodology.
-
 
 Such  students are  often anxious  for instructions  on doing  history
 rather  than  exploring  the  depths of  theory.   Some  grounding  in
@@ -23,7 +53,8 @@ of this precis is to condense the  salient points of Chrun's work to a
 baseline that every student, at minimum, should know.
 
 
-** Ancient Histories
+\subsection{Ancient Histories}
+\label{sec:org3329158}
 
 The earliest histories  might more properly be called
 accounts rather than histories. the  historian thought of himself as a
@@ -56,7 +87,8 @@ historian. Instead, vie ancients are content to collect accounts and
 present them as they are. There is a profound sense to this approach,
 from a certain point of view.
 
-** Narrative Histories
+\subsection{Narrative Histories}
+\label{sec:org9d6b55a}
 
 By vie time of decline of the oron empire, history as
 account-collecting war becoming onerous. Nolous‘ Accounts of the
@@ -82,7 +114,4 @@ best fitting accounts where there war discrepancy
 Surreal Historians
 
 Substantive History
-
-* Footnotes 
-
-[fn:1] Chrun, Alexander, Historical Method. 1036 AR
+\end{document}
