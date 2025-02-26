@@ -1,23 +1,23 @@
-Membership
+* Membership
 
 To become a member of The Imaginary Historians Society a character must
 submit a CV and a masters thesis which meets the following criteria:
 
-* At least 1000 words
-* Scholarly in tone and affect
-* Well researched
-* Contributing new knowledge to the field of history
-* Not plagiarized or copied from any source
-* Not written with the aid of generative artificial intelligence
-* Not previously submitted to The Imaginary Historians Society
+- At least 1000 words
+- Scholarly in tone and affect
+- Well researched
+- Contributing new knowledge to the field of history
+- Not plagiarized or copied from any source
+- Not written with the aid of generative artificial intelligence
+- Not previously submitted to The Imaginary Historians Society
 
 Submitted theses will be reviewed by an admissions committee of three.
 Each committee member shall make an evaluation
 which will be one of three possibilities:
 
-* ACCEPT
-* REJECT
-* REQUEST REVISION
+- ACCEPT
+- REJECT
+- REQUEST REVISION
 
 If all three members of the committee ACCEPT the thesis, the character
 is a member of the Imaginary Historians Society as a PhD Student, and
@@ -30,4 +30,3 @@ If one or more committee members REQUEST REVISION of a thesis, supplying
 suggestions and notes, the character may revise and resubmit. The revised
 thesis will then be evaluated by each committee member with either
 ACCEPT AFTER REVISION or REJECT.
-

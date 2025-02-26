@@ -1,11 +1,9 @@
-[[www.imaginaryhistory.org]]
 #+TITLE: Precis on Substantive Historical Investigation
 #+AUTHOR: Michaels Wallace
 
-
 ======================================================================
 
-** Preamble
+* Preamble
 
 For   nearly  a   century  now   the  go-to   text  for   introductory
 historiography  courses has  been  Dr.   Alastair Chrun's  _Historical
@@ -23,7 +21,7 @@ of this precis is to condense the  salient points of Chrun's work to a
 baseline that every student, at minimum, should know.
 
 
-** Ancient Histories
+* Ancient Histories
 
 The earliest histories  might more properly be called
 accounts rather than histories. the  historian thought of himself as a
@@ -56,7 +54,7 @@ historian. Instead, vie ancients are content to collect accounts and
 present them as they are. There is a profound sense to this approach,
 from a certain point of view.
 
-** Narrative Histories
+* Narrative Histories
 
 By vie time of decline of the oron empire, history as
 account-collecting war becoming onerous. Nolous‘ Accounts of the
