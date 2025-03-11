@@ -1,7 +1,7 @@
+
 #+TITLE: Precis on Substantive Historical Investigation
 #+AUTHOR: Michaels Wallace
-
-======================================================================
+#+bibliography: /home/tithonus/Meta-SIX/imaginaryhistorianssociety/imaginaryhistorianssociety/ImaginaryHistoriansSociety/Library_Catalog.bib
 
 * Preamble
 
@@ -27,6 +27,8 @@ and processes which constitute  sound historical research have changed
 over time; historiography tracks this change, considers its theory and
 trajectory. Study  of historiography  makes us better  historians, and
 helps in reading the works of historians past.
+
+
 
 * Ancient Histories
   
@@ -81,6 +83,10 @@ Surreal Historians
 
 Substantive History
 
+* Bibliography
+#+print_bibliography:
+
 * Footnotes 
 
-[fn:1] Chrun, Alexander, Historical Method. 1036 AR
+[fn:1]  [cite/title:@Chrun_Alastair-Historical_Method]
+

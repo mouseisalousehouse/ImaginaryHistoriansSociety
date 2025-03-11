@@ -1,0 +1,4 @@
+#+bibliography: ~/home/tithonus/Meta-SIX/imaginaryhistorianssociety/imaginaryhistorianssociety/ImaginaryHistoriansSociety/Library_Catalog.bib
+
+[cite:@mrx05]
+
