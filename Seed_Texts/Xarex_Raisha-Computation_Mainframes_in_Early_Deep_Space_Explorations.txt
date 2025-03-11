@@ -1,4 +1,4 @@
-#+TITLE: Computation Mainframes in Early Deep Space Explorations
+: Computation Mainframes in Early Deep Space Explorations
 
 --------------------------
 
@@ -8,25 +8,28 @@
 
 At the outset of the Second Exploration, there were four mainframe
 computer assemblies capable of processing Starship Navigation Data
-Packets (SNDaPs) at the scale required for dynamic variable hyperspace
+Packets (SNDaPs) at the scale required for Dynamic Variable Hyperspace
 calculations. These were: INIC, designed by Industrial Designs, Inc.,
 Orion II, from Intex, and the AL-2900 and RL-320 Systems, from
-Trepidatious Enterprises.
+Trepidatious Enterprises. 
 
-Exploration program directors were mandated immense
+Second Exploration program directors were mandated immense
 responsibility and had to make difficult choices about personnel,
 resource managament, and technological progress. This essay argues
 early decisions about deep space computation during the Second
-Exploration had a tremendous effect upon starship capabilities in the
+Exploration, particularly the choices made about memory systems and logic architectures, had a tremendous effect upon starship capabilities in the
 middle and late phases of the period. Ultimately, these early
 technological choices were contributing factors in the decline and
 collapse of space exploration during the era.
-[cite:@mistraeus]
+
+By the middle of the Second Exploration, and thereafter, exploratory programs favored paper punch card memory systems over magnetic media. This method was more secure in the short term, as magnetic media could be susceptible to radiation and relativity effects of DVH travel. In the long term, however, the memory requirements for extended hyperspace travel corresponded to an increase of vessel size to accomodate card storage and processing facilities. The increased size of vessels meant greatly increased cost, which resulted in fewer exploratory vessels in operation.
+
+Exploratory programs favored Lars-Krommen's Complete Logic Architecture[fn:3]  
 
 * Historical Background
 
-3204.3 is generally considered to be the "start date" of the Second
-Exploration. King Ozz III, of Naru-B, Okay, then
+3204.3 is generally considered to be the start date of the Second
+Exploration. King Ozz III of Naru-B issued a proclamation declaring exploration of outer space to be "The highest ideal of planetary patriotism.", and "
 
 * Technical Background
 
@@ -35,37 +38,40 @@ the only known reliable method of faster than light (FTL) travel was
 to briefly pass into (or "skim") hyperspace with fusion
 engines. Vessels would accelerate to near-light speeds (generally
 between 0.8c and 0.85c) while advancing parallel to the plane of a
-hyperspace fold. This allowed the vessel to briefly pass through
-hyperspace, carrying the ship along the fold.[fn:2] Since hyperspace is wrapped around normal space (more precisely: since each point in hyperspace corresponds to two in normal space) 
+hyperspace fold. This allowed the vessel to rapidly oscillate into and out of 
+hyperspace.[fn:2] Since hyperspace is wrapped around normal space (more precisely: since each point in hyperspace corresponds to at least two in normal space), the effect of this oscillation was to carry the ship "along" the hyperspace fold. 
 
-This method of travel was cumbersome and costly. The vessels were very
-large to accomodate the fusion engines, and were at the mercy of
-hyperspace fold locations. The nearest hyperspace fold to Naru-B, home
+This method of travel was cumbersome and costly. The vessels were large to accomodate the fusion engines, and were at the mercy of
+hyperspace fold. The nearest hyperspace fold to Naru-B, home
 of Ozz, is 3 light years away. During the entirety of the Second
 Exploration, and well after, starships spent 4 years in deep space at
 near-light before skimming hyperspace and completing their voyage.
 
-Early forms of hyperspace skimming locked into a vector along the
-hyperspace fold, and rode it until the fold passed away. This came to
+Early forms of hyperspace skimming chose a vector along the
+hyperspace fold, and rode it until the oscillations wavered out of proportion.  This came to
 be known as static variable hyperspace travel, because the trajectory
 of the vessel relative to the fold-plane remained locked to the plane
 itself. These calculations could be computed by humans, and were
-suitable for A drawback of this kind of travel was
-unpredictability--the hyperspace fold might spit a vessel out between
-20 and 100 light years off course. This method of travel was unsuited
-to deep space exploration because the distances
+suitable for early forays into deep space, as well as generation-ship colonization efforts.[fn:4]  A drawback of this kind of travel was
+unpredictability--the hyperspace fold often spit vessels back into normal space between
+20 and 100 light years off course.[fn:5] While hyperspace folds are, definitionally, static phenomena, the skimming vector was often chosen using guesswork.
 
-Dynamic Variable Hyperspace travel allowed the vessel to adjust its
+Dynamic Variable Hyperspace travel, invented in 297.04 by Rushmon Alton, allowed the vessel to adjust its
 relative trajectory to match the fold-plane, thereby giving the
-navigator far more control over how far the fold would takt it.  The
+navigator far more control over how far the fold would take it.  The
 calculations for this kind of travel are orders of magnitude more
-complex. This complexity scaled with the mass of the vessel.
+complex, and require the processing of micro-second snapshot of stars. This complexity scaled with the mass of the vessel, since the vibrance of oscillations were attached to each point of the vessel along....
 
 Computer mainframe assemblies were developed to make these
-calculations. An array of radiotelescopes produced data about the relative location, and speed of the starship. SNDaPs were then fed into the mainframe assembly (either electronically or namually, as we will see), and the
+calculations. An array of radiotelescopes produced data about the relative location, and speed of the starship. SNDaPs were then fed into the mainframe assembly (electronically, mechanically, or, in extreme circumstances /manually/), and the
 
- 
+* 
+
 * Footnotes
+[fn:5] The /Osiris/, founding ship of the Rojek Colony, which became New Loston, was notably thrown off course in this way. The indended destination for the /Osiris/ was the planet now known as Yund II. Futher reading on such incidents can be found in Reich Morris' A Fearsome Dark. 
+
+[fn:4] Morris, Reich. _A Fearsome Dark: Deep Space Colonizaton Between the First and Second Explorations_. New Loston. Wid University Press, 883 YU.
+[fn:3] Lars, Astrid and Morell, Krommen. "A Complete Logic Architecture for Generalizable Computation." New Loston. Morris and Morris, 345 UJ.
 
 [fn:2] 
 
