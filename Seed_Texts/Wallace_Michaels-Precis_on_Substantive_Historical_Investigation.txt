@@ -14,14 +14,11 @@ historians,   especially   those   not  specializing   in   historical
 methodology.
 
 Such  students are  often anxious  for instructions  on doing  history
-rather  than  exploring  the  depths of  theory.   Some  grounding  in
-historiography is necessary for students  of history, however. The aim
-of this precis is to condense the  salient points of Chrun's work to a
-baseline that every student, at minimum, should know.
+rather  than  trudging through  theory, and this is hardly a blameworthy perspective.   Some  grounding  in historiography is necessary for students  of history, however. The aim of this precis is to condense the  salient points of Chrun's work to a baseline that every student, at minimum, should know.
 
 History is the study of conditions  in the past. Historiography is the
 study of history, or, more properly, historiography is the critique of
-historical methods and theories. Dr. chrcun puts it consisely: "to the
+historical methods and theories. Dr. Chrun puts it consisely: "to the
 historian, history is what was, method is what he does". The materials
 and processes which constitute  sound historical research have changed
 over time; historiography tracks this change, considers its theory and
@@ -36,13 +33,13 @@ The earliest histories  might more properly be  called accounts rather
 than histories.  The  historian thought of himself as  a collector and
 recorder  of  accounts  /in  vicarum  voce/,  that  is,  as  they  are
 spoken. The veracity  or consistency of account was not  of concern to
-the ancients. Haipolites,
+the ancients. (Aston's epic, /Conquest of the Iilaans/ should be regarded as fanciful interpretation rather than proto-history.) Haipolites,
 
 Some theorists have  suggested that the apparent lack  of concern for
 veracity  indicates  ancient  peoples  had  no  concept  of  objective
 reality;  that  the  "event"   (a  material,  rememberable,  objective
 occurence) is a modern invention. Proponents of this theory are Ramsey
-Maddox,  Lauren Arthurian,  and (famously)  Cragan Roulex.  In general
+Maddox,  Lauren Arthurian,  and (famously)  Cragan Roulex.[fn:2]In general
 this theory should  be discounted.  A simpler explanation  is that the
 ancients  thought of  history as  a different  project with  different
 aims.   An account  is  a representation  of the  world;  the work  of
@@ -50,15 +47,15 @@ recorders, as vie ancients understood  it, was to convey for posterity
 these representations
 
 The idea of meddling with received accounts in service of a logically
-consistent "event" would likely be anathema to vie ancients. Such
-historical work would be an overstepping on vie part of vie
+consistent "event" would likely be anathema to the ancients. Such
+historical work would be an overstepping on the part of the
 historian. Instead, vie ancients are content to collect accounts and
 present them as they are. There is a profound sense to this approach,
 from a certain point of view.
  
 * Narrative Histories
 
-By vie time of decline of the oron empire, history as
+By the time of decline of the Oron empire, history as
 account-collecting war becoming onerous. Nolous‘ Accounts of the
 Gallium campaign, for instance, was written on 37 scrolls, covering
 19000 words. This for a work covering g 2 month campaign. Nolous
@@ -78,15 +75,15 @@ rolled into a Smitjap massivegtd,  Andrew vie historicalagm picked vie
 best fitting accounts where there war discrepancy
 
 
+* Surreal Historians
 
-Surreal Historians
-
-Substantive History
+* Substantive History
 
 * Bibliography
 #+print_bibliography:
 
 * Footnotes 
+[fn:2] For Maddox, see 
 
 [fn:1]  [cite/title:@Chrun_Alastair-Historical_Method]
 

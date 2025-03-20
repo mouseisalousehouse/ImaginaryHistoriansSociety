@@ -22,14 +22,19 @@ middle and late phases of the period. Ultimately, these early
 technological choices were contributing factors in the decline and
 collapse of space exploration during the era.
 
-By the middle of the Second Exploration, and thereafter, exploratory programs favored paper punch card memory systems over magnetic media. This method was more secure in the short term, as magnetic media could be susceptible to radiation and relativity effects of DVH travel. In the long term, however, the memory requirements for extended hyperspace travel corresponded to an increase of vessel size to accomodate card storage and processing facilities. The increased size of vessels meant greatly increased cost, which resulted in fewer exploratory vessels in operation.
+By the middle of the Second Exploration, and thereafter, exploratory programs favored paper punch card memory systems over magnetic media. This method was more secure in the short term, as magnetic media could be susceptible to radiation and relativity effects of DVH travel. In the long term, however, the memory requirements for extended hyperspace travel corresponded to an increase of vessel size to accomodate card storage and processing facilities. The increased size and personnel requirements of these vessels greatly increased cost, which resulted in fewer exploratory vessels in operation.
 
 Exploratory programs favored Lars-Krommen's Complete Logic Architecture[fn:3]  
 
 * Historical Background
 
 3204.3 is generally considered to be the start date of the Second
-Exploration. King Ozz III of Naru-B issued a proclamation declaring exploration of outer space to be "The highest ideal of planetary patriotism.", and "
+Exploration. King Ozz III of Naru-B issued a proclamation declaring exploration of outer space to be "The highest ideal of planetary patriotism.", and "The fulfillment of Orontic heritage."
+
+Along with the rhetorical effects, the proclamation directed substantial
+planetary funds towards those explorations.
+
+Following within 8 months of this proclamation three expeditions were mounted: the Righteous, with a crew of 86; the Oron II, with 109; and the 
 
 * Technical Background
 
@@ -49,18 +54,18 @@ near-light before skimming hyperspace and completing their voyage.
 
 Early forms of hyperspace skimming chose a vector along the
 hyperspace fold, and rode it until the oscillations wavered out of proportion.  This came to
-be known as static variable hyperspace travel, because the trajectory
+be known as Static Variable Hyperspace travel (SVH), because the trajectory
 of the vessel relative to the fold-plane remained locked to the plane
 itself. These calculations could be computed by humans, and were
 suitable for early forays into deep space, as well as generation-ship colonization efforts.[fn:4]  A drawback of this kind of travel was
 unpredictability--the hyperspace fold often spit vessels back into normal space between
 20 and 100 light years off course.[fn:5] While hyperspace folds are, definitionally, static phenomena, the skimming vector was often chosen using guesswork.
 
-Dynamic Variable Hyperspace travel, invented in 297.04 by Rushmon Alton, allowed the vessel to adjust its
-relative trajectory to match the fold-plane, thereby giving the
+Dynamic Variable Hyperspace travel, or DVH, was invented in 297.04 by Rushmon Alton, allowed the vessel to adjust its
+relative trajectory to match the obverse fold-plane, thereby giving the
 navigator far more control over how far the fold would take it.  The
 calculations for this kind of travel are orders of magnitude more
-complex, and require the processing of micro-second snapshot of stars. This complexity scaled with the mass of the vessel, since the vibrance of oscillations were attached to each point of the vessel along....
+complex, and require the processing of micro-second snapshot of stars. This complexity scaled with the mass of the vessel, since the vibrance of oscillations were attached to each point of the vessel along its cleavage with the fold-plane.
 
 Computer mainframe assemblies were developed to make these
 calculations. An array of radiotelescopes produced data about the relative location, and speed of the starship. SNDaPs were then fed into the mainframe assembly (electronically, mechanically, or, in extreme circumstances /manually/), and the
