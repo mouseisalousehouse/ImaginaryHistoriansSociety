@@ -13,27 +13,15 @@ Hyperspace  calculations. These  were:  INIC,  designed by  Industrial
 Designs,  Inc., Orion  II,  from  Intex, and  the  AL-2900 and  RL-320
 Systems, from Trepidatious Enterprises.
 
-Second   Exploration   program   directors   were   mandated   immense
-responsibility  and had  to  make difficult  choices about  personnel,
-resource managament,  and technological  progress.  This  essay argues
-early  decisions  about  deep  space  computation  during  the  Second
-Exploration, particularly  the dominance  of INIC  compatible systems,
-had a tremendous  effect upon starship capabilities in  the middle and
-late  phases  of the  period.  Ultimately,  these early  technological
-choices--especially  the  focus  on  paper  storage  and  Lars-Krommon
-logic--were contributing factors in the  decline and collapse of space
-exploration during the era.
+This  essay argues early  decisions  about  deep  space  computation  during  the  Second Exploration, particularly  the dominance  of INIC  compatible systems, had an  effect upon starship capabilities in  the middle and late  phases  of the  period.  Ultimately,  these early  technological choices--especially  the  focus  on  paper  storage  and  Lars-Krommon logic--were contributing factors in the  decline and collapse of space exploration during the era.
 
-This paper describes the historical and technical contexts for 
 
 * Introduction
-
-...
 
 
 By the middle  of the Second Exploration,  and thereafter, exploratory
 programs  favored  paper  punch  card  memory  systems  over  magnetic
-media. This method wasmore secure in the short term, as magnetic media
+media. This method was more secure in the short term, as magnetic media
 could  be  susceptible to  radiation  and  relativity effects  of  DVH
 travel.  In  the  long  term, however,  the  memory  requirements  for
 extended hyperspace travel corresponded to  an increase of vessel size
@@ -41,8 +29,7 @@ to accomodate  card storage  and processing facilities.  The increased
 size  and personnel  requirements of  these vessels  greatly increased
 cost, which resulted in fewer exploratory vessels in operation.
 
-Exploratory   programs    favored   Lars-Krommen's    Complete   Logic
-Architecture[fn:3]
+Deep-space exploratory   programs    favored   Lars-Krommen's    Complete   Logic Architecture[fn:3] 
 
 * Historical Background
 
@@ -56,7 +43,17 @@ substantial planetary funds towards those explorations.
 
 Following within 8 months of  this proclamation three expeditions were
 mounted: the Righteous, with a crew of  86; the Oron II, with 109; and
-the
+the Triumphant, with 74. These initial expeditions in truth did not come to very much, but the enthusiam they were the beginnings or a second age of exploration.
+
+The first age of exploration had ended two generations previously. It had come to an abrupt end with the outbreak of the Virus War. Once it was discovered that the singularity method was not a viable means of interstellar travel, combined with the exigencies of total war, national budgets were not keen on the vast expenses required for space travel.
+
+But now the situation had changed. Ozz II succeeded in his goal of a unified planetary government, and for nearly 20 years the planet was operating under an uneasy peace. Here and there there were pockets of resistance to the Ozz-Oronitc regime, but the movements were largely isolated, and failed to reach the critical masses necessary for full scale revolt.
+
+Ozz III was, however, constantly wary of these rumblings towards dissent. Additionally, Ozz has an ecological problem: water scarcity was growing in several regions due to a combination of droughts and agricultural mismanagement.
+
+To reinvigorate a sense of unified patriotism, Ozz elected to pour money into the dormant space programs.
+
+Over the next century and a half 259 interstellar explorations were launched, and more than twice this number were planned or seriously proposed. The Second Exploration contributed substantially to the expansion and settlement of humanity.
 
 * Technical Background
 
@@ -69,43 +66,42 @@ hyperspace fold. This allowed the vessel to rapidly oscillate into and
 out  of hyperspace.[fn:2]  Since hyperspace  is wrapped  around normal
 space (more precisely:  since each point in  hyperspace corresponds to
 at least two  in normal space), the effect of  this oscillation was to
-carry the ship "along" the hyperspace fold.
+carry or propel the ship "along" the hyperspace fold.
 
-This  method of  travel was  cumbersome and  costly. The  vessels were
-large  to accomodate  the fusion  engines, and  were at  the mercy  of
-hyperspace fold. The  nearest hyperspace fold to Naru-B,  home of Ozz,
+This  method of  travel was  cumbersome and  costly. Vessels were necessarily large  to accomodate  fusion  engines, and  were at  the mercy  of
+hyperspace fold. The  nearest hyperspace fold to Naru-B
 is 3 light years away. During  the entirety of the Second Exploration,
 and well  after, starships spent 4  years in deep space  at near-light
 before skimming hyperspace and completing their voyage.
 
-Early forms of hyperspace skimming chose a vector along the hyperspace
+Early crude methods of hyperspace skimming involved chosing a vector along the hyperspace
 fold, and  rode it until  the oscillations wavered out  of proportion.
-This  came to  be known  as Static  Variable Hyperspace  travel (SVH),
+This  is known  as Static  Variable Hyperspace  travel (SVH),
 because  the  trajectory of  the  vessel  relative to  the  fold-plane
 remained  locked to  the  plane itself.  These  calculations could  be
 computed  by humans,  and were  suitable  for early  forays into  deep
 space,  as  well  as  generation-ship  colonization  efforts.[fn:4]  A
 drawback of  this kind of travel  was unpredictability--the hyperspace
-fold often  spit vessels  back into  normal space  between 20  and 100
+fold often  "spit" vessels  back into  normal space  between 20  and 100
 light   years   off   course.[fn:5]  While   hyperspace   folds   are,
 definitionally, static phenomena, the skimming vector was often chosen
 using guesswork.
 
 Dynamic Variable Hyperspace travel, or  DVH, was invented in 297.04 by
 Rushmon Alton, allowed the vessel to adjust its relative trajectory to
-match the  obverse fold-plane, thereby  giving the navigator  far more
+match the  striations of the obverse fold-plane, thereby  giving the navigator  far more
 control over  how far the  fold would  take it.  The  calculations for
 this kind of travel are orders  of magnitude more complex, and require
-the  processing of  micro-second  snapshot of  stars. This  complexity
+the  processing of  micro-second data about absolute position. Generally, this data was collected by taking and processing snapshots of visible stars. This  complexity
 scaled with the mass of the vessel, since the vibrance of oscillations
 were attached to each point of  the vessel along its cleavage with the
 fold-plane.
 
 Computer   mainframe  assemblies   were   developed   to  make   these
 calculations.  An array  of  radiotelescopes produced  data about  the
-relative location,  and speed  of the starship.  SNDaPs were  then fed
+absolute location,  and speed  of the starship.  SNDaPs were  then fed
 into  the mainframe  assembly  (electronically,  mechanically, or,  in
-extreme circumstances /manually/), and the 
+extreme circumstances /manually/), and the mainframe output possible vector-
 
 * Footnotes
 
