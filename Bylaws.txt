@@ -1,55 +1,9 @@
-Article I
 
-The name of the organization shall be The Imaginary Historians’ Society.
-
-Article II
-
-The Purpose of The Imaginary Historians’ Society is to preserve from annihilation the documents,
-papers, letters, artifacts, relics, and records of the imaginary history.
-
-Article III
-
-The Imaginary Historians’ Society is overseen by a self-perpetuating council of three. The council
-is to meet semiannually. The council’s responsibilities cover all aspects of the Society, including
-appointing a Director, determining qualifications for membership, collection policies, publications, and
-financial matters. The Council shall publish irregularly an unabridged report of the Society and its
-operations.
-Article IV
-Membership to The Imaginary Historians’ Society is granted at the Council’s discretion to
-imaginary persons who apply.
-Article V
-The Director is an office appointed by the council whenever a vacancy occurs, by resignation,
-death, or removal from office. A unanimous vote among all three Councilmembers is needed to appoint or
-remove a Director.
-The Director oversees the day-to-day operations of the Society.
-Article VI
-The Charter of The Imaginary Historians’ Society can be amended by either two votes from the
-Council and the approval of the Director or three votes from the Council.
-Article VII
-The Imaginary Historians’ Society shall maintain and operate an Archive of Important Evidences,
-which is to preserve papers, objects, and all material which is deemed permanently valuable as an aid to
-understanding the imaginary history, or is of interest to the Society.
-Article VIII
-The Imaginary Historians’ Society shall operate an Imaginary Historians’ Society Press, which is
-to publish articles, reprint primary sources, and in general support the imaginary history.
-Article IX
-The Imaginary Historians’ Society shall operate a library, which is to collect books having to do
-with the imaginary history, or which are of interest to the Society.
-
-* Bylaws
-
-The text of these bylaws can be amended with majority consent among characters  who have participated in the Imaginary Historians Society within the past month.
-
-* Membership
-
-To become a member of The Imaginary Historians Society a character must
-submit a CV and a masters thesis which meets the following criteria:
-
-- At least 1000 words
+- At least 2000 words
 - Scholarly in tone and affect
 - Well researched
 - Contributing new knowledge to the field of history
-- Not plagiarized or copied from any source
+- Not plagiarized or copied wantonly
 - Not written with the aid of generative artificial intelligence
 - Not previously submitted to The Imaginary Historians Society
 
@@ -73,6 +27,30 @@ suggestions and notes, the character may revise and resubmit. The revised
 thesis will then be evaluated by each committee member with either
 ACCEPT AFTER REVISION or REJECT.
 
-* Style 
+Article V
+==========
 
+The Director is an office appointed by the council whenever a vacancy occurs, by resignation, death, or removal from office. A unanimous vote among all three Councilmembers is needed to appoint or
+remove a Director.
+The Director oversees the day-to-day operations of the Society.
+
+Article VI
+==========
+
+The Bylaws of The Imaginary Historians’ Society can be amended by either two votes from the Council and the approval of the Director or three votes from the Council.
+
+Article VII
+==========
+
+The Imaginary Historians’ Society shall maintain and operate an Archive of Important Evidences, which is to preserve papers, objects, and all material which is deemed permanently valuable as an aid to understanding the imaginary history, or is of interest to the Society.
+
+Article VIII
+==========
+
+The Imaginary Historians’ Society shall operate an Imaginary Historians’ Society Press to publish the output of its members.
+
+Article IX
+==========
+
+The Imaginary Historians’ Society shall operate a library to aid all who wish in research.
 
